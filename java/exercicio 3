@@ -1,0 +1,6 @@
+int valor x
+
+if ( valor x == > 10) {
+  System.out.print ('MAIOR QUE 10')
+else ( valor x ==< 10 ) {
+  System.out.print ( 1 MENOR QUE 10')

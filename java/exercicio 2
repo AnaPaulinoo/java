@@ -1,0 +1,21 @@
+var peso = 80kg
+var altura = 1,80
+
+switch (peso/ (altura * altura) {
+  case "< 18,5":
+     Alert('magreza');
+     break;
+  case ">18,5 && <24,9":
+     Alert('NORMAL');
+     break;
+  case ">25 && <29,9":
+     Alert('sobrepeso ');
+     break;
+  case ">30 && <39,9":
+     Alert('obesidade');
+     break;
+  case ">40":
+     Alert('obesidade grave');
+     break;
+  default:
+     Alert('operação nao realizada');

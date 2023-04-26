@@ -1,0 +1,14 @@
+int A = 9
+int B = 7
+int C = 2
+int D = 10
+
+Soma ( A + B + C + D)/4 {
+
+If (soma == <7) {
+  System.out.print('Reprovado')
+} else {
+  System.out.print('Aprovado')
+}
+
+

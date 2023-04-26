@@ -1,0 +1,5 @@
+int base = x
+int altura = y
+
+ int A = x * y
+  System.out.println(" area do triangulo =" + A)

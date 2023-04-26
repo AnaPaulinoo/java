@@ -1,0 +1,11 @@
+int golsFlamengo = 4
+int golsCorinthians = 5
+
+if (golsFlamengo > golsCorinthias) {
+   System.out.println ("golsFlamengo é o vencedor")
+
+else (golsCorinthias > golsFlamengo) {
+   System.out.println ("golsCorinthias é vencedor")
+
+if else (golsFlamengo == golsCorinthias) {
+   System.out.println ("empate")

@@ -1,0 +1,12 @@
+int valor 1 = 8
+int valor 2 = 10
+
+if (valor 1 > valor 2) {
+  System.out.println ("0 valor é maior que o valor 2")
+}
+else if ( valor 2> valor 1) {
+  System.out.println ("0 valor 2 é maior que o valor 1")
+}
+else {
+  System.out.println ("ler valores diferentes")
+

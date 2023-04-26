@@ -1,0 +1,7 @@
+int idade = 20
+
+if ( idade > 18 ) {
+  System.out.println (" maior de idade")
+{
+else (idade < 18 ) {
+  System.out.println ("menor de idade")
